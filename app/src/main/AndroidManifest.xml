@@ -9,7 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".louisamenu"></activity>
+        <activity android:name=".comebuymenu" />
+        <activity android:name=".breakfastmenu" />
+        <activity android:name=".muffinmenu" />
+        <activity android:name=".deliveryandreport" />
+        <activity android:name=".buffetmenu" />
+        <activity android:name=".pastamenu" />
+        <activity android:name=".menuJAVA" />
+        <activity android:name=".MyDBHelper" />
+        <activity
+            android:name=".sqlite"
+            android:label="@string/title_activity_sqlite"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".slideimg" />
+        <activity android:name=".MainActivity2" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

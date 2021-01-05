@@ -1,4 +1,4 @@
-package com.example.lab4;
+/*package com.example.lab4;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -77,4 +77,4 @@ public class MainActivity2 extends AppCompatActivity {
             }
         });
     }
-}
+}*/
